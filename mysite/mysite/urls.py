@@ -15,8 +15,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from polls.views import hello3, sayhello, hello4
+
+
+
+'''from django.conf.urls import url
+from polls.views import sayhello'''
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('polls/', include('polls.urls')),
+    path('polls/', sayhello),
+    path('hello3/<str:username>/', hello3),
+    path('hello4/<str:username>/', hello4),
+
+
+    #　url(r'^$', sayhello),
+    # 二種方式，可能新版不再用，需再釐清
 ]
+

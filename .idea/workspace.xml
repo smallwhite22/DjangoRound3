@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,8 +25,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/mysite" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0_Python Research\DjangoRound3\mysite" />
+      <recent name="D:\0_Python Research\DjangoRound3\mysite\mysite\polls\migrations" />
+      <recent name="D:\0_Python Research\DjangoRound3\mysite\mysite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0_Python Research\DjangoRound3\mysite\mysite" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,18 +66,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1008" y="617" key="#Inspections" timestamp="1589786389061">
+      <screen x="-1200" y="0" width="1200" height="1920" />
+    </state>
+    <state x="-1008" y="617" key="#Inspections/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589786389061" />
     <state x="-852" y="761" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589440924809">
       <screen x="-1200" y="0" width="1200" height="1920" />
     </state>
     <state x="-852" y="761" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589440924809" />
-    <state x="-1099" y="591" key="SettingsEditor" timestamp="1589442584671">
+    <state x="-870" y="705" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589781134433">
       <screen x="-1200" y="0" width="1200" height="1920" />
     </state>
-    <state x="-1099" y="591" key="SettingsEditor/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589442584671" />
-    <state x="-913" y="782" key="com.intellij.ide.util.TipDialog" timestamp="1589516416603">
+    <state x="-870" y="705" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589781134433" />
+    <state x="-1099" y="591" key="SettingsEditor" timestamp="1589781010833">
       <screen x="-1200" y="0" width="1200" height="1920" />
     </state>
-    <state x="-913" y="782" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589516416603" />
+    <state x="-1099" y="591" key="SettingsEditor/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589781010833" />
+    <state x="-913" y="782" key="com.intellij.ide.util.TipDialog" timestamp="1589772462681">
+      <screen x="-1200" y="0" width="1200" height="1920" />
+    </state>
+    <state x="-913" y="782" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1200.0.1200.1920@-1200.0.1200.1920" timestamp="1589772462681" />
     <state x="-805" y="628" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589448921251">
       <screen x="-1200" y="0" width="1200" height="1920" />
     </state>
